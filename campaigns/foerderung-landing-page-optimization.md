@@ -1,235 +1,301 @@
-# CRO-Optimierung: klober-media.de/foerderung/
+# Wachstumsstrategie: klober-media.de/foerderung/
 
 **Kampagne:** Förderung für Pflegeeinrichtungen nach § 8 Abs. 7 SGB XI
-**Ziel:** Kostenlosen Erstcheck-Anfragen steigern
-**Analyse-Datum:** 2026-03-07
+**Ziel:** Mehr qualifizierte Besucher → höhere Klickrate → mehr Erstcheck-Anfragen
+**Analyse-Datum:** 2026-03-09
 
 ---
 
-## Kurzanalyse
+## Schritt 1: Kundenavatar
 
-Die Seite richtet sich an ambulante Pflegedienste und stationäre Pflegeeinrichtungen mit einem konkreten, lukrativen Angebot: bis zu 10.000 € Förderung durch die Pflegekasse für Social-Media-Kampagnen zur Personalrückgewinnung. Das Angebot ist stark. Die Seite schöpft das Conversion-Potenzial noch nicht voll aus.
+Alle anderen Maßnahmen bauen auf dem Avatar auf. Wer die Seite nicht für eine konkrete Person schreibt, schreibt sie für niemanden.
 
-**Stärken:**
-- Klarer Hauptnutzen im Titel (10.000 €, Förderung)
-- 4-Schritt-Prozess strukturiert die Erwartung gut
-- Förderrechner mit konkretem Beispiel ist sehr überzeugend
-- 7 namentliche Testimonials mit Firmenzugehörigkeit
-- FAQ deckt die wichtigsten Einwände ab
-- 2-Feld-Formular (geringe Hürde)
+### Primärer Avatar: "Sabine, Pflegedienstleiterin"
 
-**Schwachstellen:**
-- Haupt-CTA "ANFRAGE" ist zu generisch und passiv
-- Dringlichkeit ("Förderbudgets 2026 — Jetzt Anspruch sichern") ist nur im Nav-Banner versteckt
-- Kein Nachweis: Wie viele Einrichtungen wurden bereits erfolgreich gefördert?
-- Navigation bleibt sichtbar — lenkt von Conversion ab
-- Doppelte Datenschutzhinweis-Texte unterbrechen den Lesefluss
-- Testimonials enthalten keine konkreten Zahlen (außer Eva Kandler)
+| Merkmal | Details |
+|---|---|
+| **Rolle** | Pflegedienstleiterin oder Geschäftsführerin, ambulanter Pflegedienst |
+| **Teamgröße** | 10–25 Pflegekräfte |
+| **Ort** | Mittelgroße Stadt oder Landkreis, Deutschland |
+| **Alter** | 38–55 Jahre |
+| **Entscheidungshoheit** | Hoch — entscheidet selbst, kein Vorstand nötig |
+| **Digitalkompetenz** | Mittel — nutzt Facebook und Instagram, liest auf dem Smartphone |
+| **Zeitbudget** | Knapp — sie hat keine Assistenz und führt nebenbei Touren |
+
+**Das eigentliche Problem:**
+
+Sabine hat seit 6+ Monaten offene Stellen. Sie hat Stellenanzeigen geschaltet — keine Reaktion. Sie hat eine Zeitarbeitsfirma beauftragt — zu teuer, schlechte Qualität. Sie hat einen Headhunter bezahlt — nichts. Ihr verbliebenes Team arbeitet am Limit. Sie weiß, dass Pflegekräfte nicht einfach weg sind — sie haben irgendwann die Einrichtung verlassen. Aber wie erreicht man jemanden, der nicht mehr sucht?
+
+**Was sie bei Google eingibt:**
+- "Pflegepersonal zurückgewinnen"
+- "Förderung Personalgewinnung Pflegedienst"
+- "§ 8 SGB XI Antrag stellen"
+- "Stellenanzeigen Pflege funktionieren nicht"
+- "Pflegekräfte finden 2026"
+
+**Was sie von einer Lösung erwartet:**
+- Es funktioniert wirklich (Beweis, nicht Versprechen)
+- Es kostet sie nicht noch mehr als die Headhunter
+- Ihr Team muss sich um nichts kümmern
+- Es ist legal und von der Pflegekasse anerkannt
+
+**Haupteinwände (in dieser Reihenfolge):**
+1. "Klingt zu gut um wahr zu sein — was ist der Haken?"
+2. "Ich weiß nicht, ob wir förderfähig sind"
+3. "Wir haben keine Kapazität, das zu beantragen oder zu begleiten"
+4. "Social Media hat bei uns noch nie etwas gebracht"
+5. "Was kostet mich das wirklich, nach Förderung?"
+
+**Trigger-Momente (wann sie konvertiert):**
+- Wenn eine weitere Pflegekraft kündigt
+- Wenn ein Neukunde abgelehnt werden muss (kein Personal)
+- Wenn eine Kollegin von der Förderung erzählt
+- Wenn sie nachts nicht schlafen kann wegen der Personalplanung
 
 ---
 
-## Quick Wins (sofort umsetzbar)
+### Sekundärer Avatar: "Thomas, Heimleiter"
 
-### 1. CTA-Texte konkretisieren
+| Merkmal | Details |
+|---|---|
+| **Rolle** | Heimleiter oder Pflegedirektor, stationäre Einrichtung |
+| **Teamgröße** | 26–80 Pflegekräfte |
+| **Entscheidungshoheit** | Mittel — braucht Rückendeckung vom Träger oder Aufsichtsrat |
+| **Zeitdruck** | Mittelfristig — plant in Quartalen |
+| **Hauptunterschied zu Sabine** | Entscheidet langsamer, braucht mehr Belege und formale Dokumentation, misstrauischer gegenüber Agenturen, aber weniger preissensibel |
 
-**Aktuell:**
-- "ANFRAGE" (Haupt-Button im Hero)
-- "Kostenlos anfragen"
-- "Fördercheck anfragen"
-- "Jetzt kostenlos beraten"
-
-**Optimiert:**
-
-| Stelle | Aktuell | Empfehlung |
-|--------|---------|------------|
-| Hero-CTA | ANFRAGE | Förderpotenzial berechnen — kostenlos |
-| Prozess-Abschnitt | Jetzt kostenlos beraten | Jetzt kostenlosen Erstcheck starten |
-| Formular-Button | Jetzt anfragen | Fördercheck anfordern |
-| Ende Seite | Jetzt anfragen | In 24 h mein Förderpotenzial erfahren |
-
-**Rationale:** Der Besucher versteht nicht, was nach dem Klick passiert. "Förderpotenzial berechnen" ist outcome-fokussiert und spezifisch.
+**Was Thomas überzeugt:**
+- Offizielle Rechtsgrundlage (§ 8 SGB XI, BMG FAQ Nr. 21)
+- Nachweis der Bewilligungsquote
+- Klarer Ablaufplan, der zeigt was sein Team tun muss (wenig)
+- Referenzeinrichtungen vergleichbarer Größe
 
 ---
 
-### 2. Dringlichkeit in den Hero-Bereich holen
+### Messaging-Konsequenzen aus dem Avatar
 
-Der Banner "Förderbudgets 2026 — Jetzt Anspruch sichern" ist im Navigationsbreich vergraben. Direkt unterhalb der Hauptüberschrift fehlt ein Dringlichkeits-Element.
+| Seiten-Element | Aktuell | Avatar-gerecht |
+|---|---|---|
+| Headline | "Bis zu 10.000 € Förderung" | "Pflegepersonal zurückgewinnen — bis zu 70 % finanziert" |
+| Subheadline | Keine klare Botschaft | "Für Einrichtungen, die alles versucht haben außer dem Richtigen" |
+| Erster Satz Body | Gesetzliche Definition | "Viele Pflegekräfte haben nicht den Beruf aufgegeben. Sie haben Ihre Einrichtung verlassen." |
+| CTA | "ANFRAGE" | "Erstprüfung starten — kostenlos, Antwort in 24 h" |
+| Trust Signal | Keins im Hero | "100 % Bewilligungsquote bei [X]+ geförderten Einrichtungen" |
 
-**Vorschlag — direkt unter dem Headline:**
+---
+
+## Schritt 2: SEO-Strategie — Höheres Suchvolumen der Zielgruppe
+
+Die Seite rankt aktuell fast ausschließlich für Brand-Keywords (klober-media). Ziel: Top-3-Rankings für transaktionale Nicht-Brand-Keywords, die Sabine und Thomas eingeben.
+
+### 2a. Ziel-Keywords
+
+**Primäre Keywords (hohe Kaufabsicht — für die Hauptseite):**
+
+| Keyword | Intent | Priorität |
+|---|---|---|
+| § 8 Abs. 7 SGB XI Förderung Pflegeeinrichtungen | Entscheidung | Sehr hoch |
+| Pflegepersonal zurückgewinnen Förderung | Entscheidung | Sehr hoch |
+| Personalgewinnung Pflege Förderung Pflegekasse | Entscheidung | Hoch |
+| Förderung ambulanter Pflegedienst Social Media | Kaufabsicht | Hoch |
+| Antrag stellen § 8 SGB XI | Action | Hoch |
+| Fördermittel Pflegeeinrichtungen Personalgewinnung | Recherche | Mittel |
+
+**Informationelle Keywords (für Content-Satelliten → verlinken auf Hauptseite):**
+- "Was zahlt die Pflegekasse für Personalmaßnahmen"
+- "Fachkräftemangel Pflege Lösungen 2026"
+- "Rückgewinnung Pflegepersonal Kampagne Kosten"
+- "§ 8 SGB XI einfach erklärt"
+
+### 2b. On-Page SEO: Änderungen an der Hauptseite
+
+**Page Title:**
 ```
-Jahresbudgets werden kalenderjährlich vergeben. Anträge für 2026 können jetzt gestellt werden.
+Aktuell: "Bis zu 10.000 € Förderung für Pflegeeinrichtungen - Klober Media"
+Neu:     "§ 8 SGB XI Förderung: Pflegepersonal zurückgewinnen | bis zu 10.000 € | Klober Media"
 ```
 
-Alternativ als farbiger Hinweisbalken unmittelbar über dem CTA:
+**Meta Description (erscheint in Google — direkter Einfluss auf CTR):**
 ```
-Bisher haben [X] Einrichtungen ihre 2026-Förderung gesichert. Restbudget läuft ab.
+Ambulante und stationäre Pflegeeinrichtungen erhalten bis zu 70 % ihrer Kampagnenkosten
+erstattet. 100 % Bewilligungsquote. Erstprüfung kostenlos in 24 h. Jetzt Förderpotenzial berechnen.
 ```
+
+**H1-Tag** (derzeit wahrscheinlich nicht keyword-optimiert):
+```
+Neu: "Ausgestiegene Pflegefachkräfte zurückgewinnen — gefördert nach § 8 Abs. 7 SGB XI"
+```
+
+**FAQ-Schema Markup aktivieren:**
+Die bestehende FAQ-Sektion mit Schema.org `FAQPage`-Markup auszeichnen → Google zeigt einzelne Fragen/Antworten direkt in den Suchergebnissen als Rich Snippet (typisch +20–30 % CTR).
+
+**Interne Verlinkung:**
+Alle zukünftigen Blog-Artikel verlinken mit Ankertext "§ 8 SGB XI Förderung beantragen" auf die Förderungsseite.
+
+### 2c. Content-Satelliten (Wochen 5–8)
+
+Drei Blogartikel, die Long-Tail-Traffic einfangen und auf die Hauptseite weiterleiten:
+
+**Artikel 1 — Informationell (Problem-aware-Phase):**
+> "Pflegepersonal zurückgewinnen: Warum Stellenanzeigen scheitern und was stattdessen funktioniert"
+- Ziel-Keyword: "Pflegepersonal zurückgewinnen"
+- CTA am Ende: → Zur Förderungsseite
+
+**Artikel 2 — Rechtlicher Rahmen (Consideration-Phase):**
+> "§ 8 Abs. 7 SGB XI erklärt: Was Pflegeeinrichtungen jetzt beantragen können (inkl. Rechenbeispiele)"
+- Ziel-Keyword: "§ 8 Abs 7 SGB XI Förderung"
+- Erschöpfende Erklärung → positioniert Klober Media als Expertenquelle
+
+**Artikel 3 — How-to (Decision-Phase):**
+> "Förderantrag nach § 8 SGB XI stellen: Schritt-für-Schritt-Anleitung für 2026"
+- Ziel-Keyword: "Antrag stellen § 8 SGB XI"
+- Konkrete Anleitung → führt direkt zum Erstcheck-Formular
 
 ---
 
-### 3. Social Proof quantifizieren
+## Schritt 3: CTR-Optimierung (Mehr Klicks aus den SERPs)
 
-**Aktuell:** 7 qualitative Testimonials ohne Aggregate-Aussage.
+### 3a. Page Title & Meta Description
 
-**Hinzufügen** — als Zählstreifen nach dem Hero oder vor den Testimonials:
+Siehe Schritt 2b. Die Meta Description ist der wichtigste Hebel — sie ist der "Anzeigentext" in den Suchergebnissen.
 
-```
-100 %    Bewilligungsquote
-[X]+     geförderte Einrichtungen
-[X]      Mio. € gesicherte Fördermittel
-24 h     Antwortzeit
-```
+**Stärkste Elemente für die Meta Description:**
+- Konkrete Zahl ("bis zu 70 %")
+- Risikoumkehr ("kostenlos")
+- Dringlichkeit ("2026")
+- Outcome ("Erstprüfung in 24 h")
 
-Wenn die exakten Zahlen nicht publik sind, beginne konservativ mit gesicherten Werten.
+### 3b. Rich Snippets aktivieren
 
----
+| Schema-Typ | Wo einbauen | Erwarteter Effekt |
+|---|---|---|
+| FAQPage | Bestehende FAQ-Sektion | +20–30 % CTR durch ausklappbare Antworten in Google |
+| BreadcrumbList | Bereits vorhanden | Zeigt Seitenstruktur in SERP |
+| Organization | Footer / Head | Knowledge Panel mit Logo + Kontakt |
+| HowTo | Ablauf-Sektion (4 Schritte) | Schritt-für-Schritt-Darstellung in SERP möglich |
 
-### 4. Testimonials mit Ergebniszahlen anreichern
+**Google Rich Results Test:** Nach Implementierung unter https://search.google.com/test/rich-results prüfen.
 
-Eva Kandlers Testimonial enthält konkrete Zahlen ("4 Wochen 2 neue Mitarbeiter"). Das ist das stärkste Testimonial. Andere Testimonials sollten ebenfalls quantifiziert werden, z. B.:
+### 3c. Dringlichkeit im SERP-Snippet
 
-- Bewerbungsrate in X Wochen
-- Anzahl zurückgekehrter Pflegekräfte
-- Eigenanteil nach Förderung
-
----
-
-### 5. Doppelten Datenschutz-Hinweis entfernen
-
-Der Text "Mit dem Absenden des Formulars erklärt ihr euch damit einverstanden..." erscheint zweimal auf der Seite (einmal beim Förder-Formular, einmal beim Kontaktbereich). Das zweite Vorkommen erzeugt unnötige Friction. Einmal direkt vor dem Submit-Button reicht.
+Wenn Google die Meta Description übernimmt, transportiert "Förderbudgets 2026 — Anträge jetzt stellen" Dringlichkeit auch im Suchergebnis.
 
 ---
 
-## High-Impact-Änderungen (Priorisiert)
+## Schritt 4: Lead-Optimierung (Mehr Erstcheck-Anfragen)
 
-### 6. Headline aus Outcome-Perspektive formulieren
+### 4a. Headline-Test (A/B)
 
-**Aktuell:**
+**Variante A — Control (aktuell):**
 > "Bis zu 10.000 € Förderung für Pflegeeinrichtungen"
 
-Das ist feature-fokussiert (Förderung), nicht outcome-fokussiert (Pflegekräfte zurückgewinnen).
+**Variante B — Outcome-fokussiert:**
+> "Pflegepersonal zurückgewinnen — bis zu 70 % finanziert von der Pflegekasse"
 
-**Varianten zum Testen:**
+**Variante C — Emotionale Wahrheit (höchstes Potenzial):**
+> "Ihre Pflegekräfte haben nicht den Beruf aufgegeben. Sie haben die Einrichtung verlassen."
+> *Subheadline: Wir holen sie zurück — mit einer Kampagne, die die Pflegekasse bis zu 10.000 € erstattet.*
 
-**Variante A — Outcome + Förderung:**
-> Ausgestiegene Pflegekräfte zurückgewinnen — bis zu 70 % von der Pflegekasse finanziert
+Variante C spricht Sabine direkt an — sie denkt genau das. Stärkste Differenzierung, höchstes Risiko. Deshalb A/B-Test (mindestens 200 Besucher pro Variante, 2 Wochen Laufzeit).
 
-**Variante B — Pain-Point + Lösung:**
-> Ihre offenen Stellen bleiben unbesetzt? Wir holen qualifizierte Pflegekräfte zurück — mit einer Kampagne, die die Pflegekasse bis zu 10.000 € erstattet.
+### 4b. CTA-Texte anpassen
 
-**Variante C — Social Proof + Outcome:**
-> So gewinnen [X]+ Pflegeeinrichtungen ausgestiegene Fachkräfte zurück — gefördert mit bis zu 70 %
+| Position | Aktuell | Empfehlung |
+|---|---|---|
+| Hero (primär) | ANFRAGE | Förderpotenzial berechnen — kostenlos |
+| Prozess-Abschnitt | Jetzt kostenlos beraten | Ist meine Einrichtung förderfähig? |
+| Formular-Button | Jetzt anfragen | Erstprüfung anfordern — Antwort in 24 h |
+| Ende der Seite | Jetzt anfragen | In 24 h mein Förderpotenzial erfahren |
 
-**Rationale:** Pflegeleitungen suchen keine "Förderung", sie suchen Personal. Die Förderung ist der Bonus, nicht das Versprechen.
+**Formel:** Aktion + Was sie bekommen + Risikoumkehr
 
----
+### 4c. Eligibility-Pre-Check im Hero (höchste Priorität für Leads)
 
-### 7. Eligibility-Check direkt im Hero
-
-Anstatt (oder zusätzlich zu) dem Formular weiter unten: ein 2-Klick-Check im Hero.
-
-```
-Ist Ihre Einrichtung förderfähig?
-
-[ Stationäre Pflege ] [ Ambulanter Dienst ] [ Träger ]
-
-→ Weiter
-```
-
-Senkt den initialen Commitment erheblich. Besucher beantworten zuerst eine einfache Frage, bevor sie Kontaktdaten eingeben. Steigerung der Formularstarts typischerweise +20–40 %.
-
----
-
-### 8. Navigation auf der Landing Page deaktivieren
-
-Landing Pages konvertieren deutlich besser ohne Navigationsleiste. Jeder Menüpunkt ist eine Ausstiegsmöglichkeit. Für Traffic aus bezahlten Anzeigen besonders kritisch.
-
-**Empfehlung:** Navigation-frei-Version der Seite für Paid-Traffic (separate URL oder Tracking-Parameter). Nur Logo + CTA-Button im Header.
-
----
-
-### 9. Förderrechner interaktiv machen
-
-Aktuell zeigt die Seite eine statische Beispielrechnung (≤ 25 Pflegekräfte).
-
-**Upgrade:** Interaktiver Schieberegler oder Auswahl:
+Ersetzt oder ergänzt das vollständige Kontaktformular im Hero. Reduziert die Commitment-Hürde erheblich — Sabine klickt, bevor sie ihren Namen eingibt.
 
 ```
+[ Schritt 1 von 3 ]
 Wie viele Pflegekräfte hat Ihre Einrichtung?
 
-○ Bis 25  ○ 26–50  ○ 51–100  ○ 100+
+  ○ Unter 25   → Förderung: bis zu 70 % / max. 10.000 €
+  ○ 26–50      → Förderung: bis zu 50 % / max. 7.500 €
+  ○ 51–100
+  ○ Über 100
 
-Ihre Förderquote: 70 %
-Ihre max. Erstattung: 10.000 € / Jahr
-Ihr Eigenanteil ab: ca. 4.200 €
+                    [ Weiter → ]
 ```
 
-Nach Auswahl: direkter CTA "Mein genaues Förderpotenzial berechnen lassen"
+Schritt 2: Einrichtungsart
+Schritt 3: Name + E-Mail + "Erstprüfung anfordern"
 
----
+Typische Steigerung der Formularstarts durch Pre-Qualifier: +20–40 %.
 
-### 10. Einwand "Klingt zu gut um wahr zu sein" direkt adressieren
+### 4d. Social-Proof-Zahlenleiste
 
-Das Angebot (kostenlos prüfen, bis zu 70 % erstattet, 100 % Bewilligungsquote) klingt für Skeptiker unrealistisch. Dieser Einwand muss explizit entkräftet werden.
+Direkt nach dem Hero-Bereich, vor dem ersten Textblock:
 
-**Vorschlag als Block nach dem Förderrechner:**
+```
+┌─────────────────┬─────────────────────────┬────────────────┐
+│ 100 %           │ [X]+                    │ 24 h           │
+│ Bewilligungs-   │ geförderte              │ Antwortzeit    │
+│ quote           │ Einrichtungen           │                │
+└─────────────────┴─────────────────────────┴────────────────┘
+```
 
-> **Warum finanziert die Pflegekasse das?**
+Platzhalter "[X]+" mit realen Zahlen von Klober Media befüllen. Konservativ beginnen — lieber 12+ als 50+ angeben und enttäuschen.
+
+### 4e. Skeptiker-Block ("Klingt zu gut um wahr zu sein")
+
+Direkt nach dem Förderrechner, bevor das Kontaktformular erscheint:
+
+> **Warum zahlt die Pflegekasse das?**
 >
-> Das ist kein Trick und kein Graubereich. § 8 Abs. 7 SGB XI verpflichtet die gesetzlichen Pflegekassen seit Jahren zur finanziellen Förderung von Maßnahmen zur Personalgewinnung. Das Bundesgesundheitsministerium hat in FAQ Nr. 21 ausdrücklich bestätigt: Digitale Rückgewinnungskampagnen sind förderfähig. Wir kennen die Anforderungen — und haben eine Bewilligungsquote von 100 %.
+> Das ist kein Trick und kein Graubereich. § 8 Abs. 7 SGB XI verpflichtet die gesetzlichen Pflegekassen seit Jahren zur finanziellen Förderung von Maßnahmen zur Personalgewinnung. Das Bundesgesundheitsministerium hat in FAQ Nr. 21 ausdrücklich bestätigt: Digitale Kampagnen zur Rückgewinnung ausgestiegener Pflegefachkräfte sind förderfähig — nicht als Werbung, sondern als anerkannte Personalmaßnahme.
+>
+> Wir bereiten alles vor. Ihre Einrichtung unterschreibt und reicht ein. Der Aufwand für Ihr Team: ca. 15 Minuten.
+
+### 4f. Navigation für Paid-Traffic ausblenden
+
+Jeder Menüpunkt ist ein potenzieller Ausstieg. Für Besucher aus Meta Ads oder Google Ads eine navigationfreie Variante der Seite einsetzen (via URL-Parameter oder separate Seite). Nur Logo + CTA-Button im Header.
+
+### 4g. Thank-You-Seite optimieren
+
+Nach Formular-Absenden klare Erwartung setzen + Vertrauen verstärken:
+
+1. "Wir melden uns innerhalb von 24 Stunden mit Ihrer konkreten Einschätzung zu Förderpotenzial und nächsten Schritten."
+2. Stärkstes Testimonial anzeigen: Eva Kandler — "4 Wochen, 2 neue Mitarbeiter"
+3. LinkedIn-Follow CTA: "Folgen Sie uns für weitere Praxistipps zur Personalgewinnung in der Pflege"
 
 ---
 
-## A/B-Tests (nach Stabilisierung)
+## Umsetzungsreihenfolge
 
-| Test | Variante A (Control) | Variante B | Erwartete Wirkung |
-|------|---------------------|------------|-------------------|
-| Hero-Headline | Bis zu 10.000 € Förderung... | Ausgestiegene Pflegekräfte zurückgewinnen... | +10–25 % Conversions |
-| CTA-Text | Fördercheck anfordern | Förderpotenzial berechnen — kostenlos | +5–15 % Klickrate |
-| Hero-Bild | Aktuell | Bild mit Patrik Klober + Testimonial-Zitat | +5–10 % Vertrauen |
-| Eligibility-Check | Direkt Formular | 2-Klick-Pre-Qualifier → Formular | +20–40 % Formularstarts |
-| Navigation | Sichtbar | Ausgeblendet (nur für Paid-Traffic) | +10–30 % Conversions |
-
----
-
-## Formular-Optimierung
-
-Das aktuelle Formular ist bereits gut (nur 2 Pflichtfelder: Einrichtungsart + Anzahl Pflegekräfte). Ergänzungen:
-
-**Direkt über dem Submit-Button:**
-```
-Kostenlos & unverbindlich
-Antwort innerhalb von 24 Stunden
-Kein Spam, keine Weitergabe Ihrer Daten
-```
-
-**Nach dem Absenden (Thank-You-Seite):**
-- Klare Erwartung setzen: "Wir melden uns innerhalb von 24 Stunden mit Ihrer persönlichen Einschätzung."
-- Zwischenschritt-Content: "Während Sie warten: Lesen Sie, wie [Einrichtungsname] in 4 Wochen 2 Mitarbeiter gewann."
-- Linkedin/Social-Follow-CTA auf der Thank-You-Seite
+| Woche | Maßnahme | Zieldimension | Aufwand |
+|---|---|---|---|
+| 1 | Page Title + Meta Description | SEO / CTR | 30 Min. |
+| 1 | H1-Tag optimieren | SEO | 10 Min. |
+| 1 | CTA-Texte anpassen | Leads | 30 Min. |
+| 2 | FAQ-Schema Markup | CTR | 1–2 h |
+| 2 | Social-Proof-Zahlenleiste | Leads | 1 h |
+| 2 | Skeptiker-Block einfügen | Leads | 1 h |
+| 3 | A/B-Test Headline aufsetzen | Leads | 2–3 h |
+| 3 | Eligibility-Pre-Check Hero | Leads | 3–5 h |
+| 4 | Navigation für Paid-Traffic ausblenden | Leads | 1–2 h |
+| 4 | Thank-You-Seite überarbeiten | Leads | 1 h |
+| 5–8 | Content-Satelliten (3 Blogartikel) | SEO | 3–5 h je Artikel |
 
 ---
 
-## SEO-Hinweise (Bonus)
+## Erfolgsmessung
 
-Die Seite steht auf einer guten Grundlage (Schema-Markup vorhanden, strukturierte Daten). Ergänzungen:
-
-- **Page Title:** "Bis zu 10.000 € Pflegekassen-Förderung | Klober Media" → besser: "§ 8 SGB XI Förderung für Pflegeeinrichtungen | Bis zu 10.000 € | Klober Media"
-- **FAQ-Schema** für den FAQ-Bereich aktivieren — steigert Rich-Snippet-Chancen
-- **H1-Tag prüfen:** Sollte die exakte Keyword-Phrase "§ 8 SGB XI Förderung Pflegeeinrichtungen" enthalten
-
----
-
-## Priorisierte Umsetzungsreihenfolge
-
-1. **Woche 1:** CTA-Texte optimieren (Quick Win, minimaler Aufwand)
-2. **Woche 1:** Social-Proof-Zahlenleiste ergänzen
-3. **Woche 2:** Headline-Test aufsetzen (A/B)
-4. **Woche 2:** Dringlichkeits-Element im Hero
-5. **Woche 3:** Eligibility-Pre-Check im Hero implementieren
-6. **Woche 4:** Navigation für Paid-Traffic ausblenden
-7. **Laufend:** Testimonials mit konkreten Zahlen anreichern
+| Metrik | Tool | Ziel |
+|---|---|---|
+| Impressionen + CTR für Ziel-Keywords | Google Search Console | CTR von < 2 % → > 5 % |
+| Formular-Conversion-Rate | GA4 / Heatmap | Baseline messen, dann +30 % |
+| Headline-Test-Ergebnis | A/B-Testing-Tool | Signifikanz nach 200+ Sessions je Variante |
+| Rich Snippet Aktivierung | Google Rich Results Test | FAQ-Snippet erscheint |
+| Organischer Traffic auf Förderungsseite | GA4 | +50 % nach 8 Wochen |
 
 ---
 
-*Analyse basierend auf vollständigem Page-Scrape vom 2026-03-07. Empfehlungen folgen dem CRO-Framework aus `skills/page-cro/SKILL.md`.*
+*Analyse basierend auf vollständigem Page-Scrape und Wettbewerbs-Recherche vom 2026-03-09. Empfehlungen folgen dem CRO-Framework aus `skills/page-cro/SKILL.md` und dem Copywriting-Framework aus `skills/copywriting/SKILL.md`.*
