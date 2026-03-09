@@ -1,6 +1,6 @@
 # Website-Analyse: klober-media.de
-**Erstellt:** 08. März 2026 | **Aktualisiert mit Screaming Frog-Daten:** 08. März 2026
-**Datenquellen:** Live-Crawl klober-media.de · Screaming Frog Export (265 URLs)
+**Erstellt:** 08. März 2026 | **Aktualisiert:** 08. März 2026 (+ Heading-Tiefenanalyse)
+**Datenquellen:** Live-Crawl klober-media.de · Screaming Frog Export (265 URLs) · Heading-Audit alle Hauptseiten
 **Skills verwendet:** seo-audit · page-cro · site-architecture · copywriting · ai-seo
 
 ---
@@ -387,23 +387,27 @@ Ebene 5 — CTA:    Kostenfreies Erstgespräch (20 Min.) → konkretes Strategie
 
 | # | Maßnahme | Bereich | Impact | Aufwand | Priorität | Datenquelle |
 |---|----------|---------|--------|---------|-----------|-------------|
-| 1 | **H1-Tags auf allen 8 Seiten ergänzen** (7 Case Studies + /unsere-arbeiten/) | SEO On-Page | 🔴 Hoch | Niedrig | **Sofort** | Screaming Frog |
-| 2 | **Title-Tags kürzen** (Datenschutz 82→37, Impressum 80→42, Gebr. Pfeiffer 65→57, Fuest 64→57) | SEO On-Page | 🟠 Mittel | Niedrig | **Sofort** | Screaming Frog |
-| 3 | **CTA vereinheitlichen** sitewide: Outcome-basiert, klarer Next Step | CRO | 🔴 Hoch | Niedrig | **Sofort** | Live-Analyse |
-| 4 | **Lesbarkeit Case Studies verbessern** (Flesch von 13–32 auf ≥50 heben) | Copy / CRO | 🟠 Mittel–Hoch | Mittel | **KW 1–2** | Screaming Frog |
-| 5 | **Schema.org implementieren** (Organization, Review, FAQPage, HowTo) | SEO / AI-SEO | 🟠 Mittel–Hoch | Mittel | **KW 1–2** | Best Practice |
-| 6 | **Kontaktseite erweitern** (106 → 300+ Wörter, Prozess nach Anfrage erklären) | CRO / SEO | 🟠 Mittel | Niedrig | **KW 1** | Screaming Frog |
-| 7 | **/unsere-arbeiten/ Content ausbauen** (165 → 500+ Wörter, Überblick + Filter) | SEO / CRO | 🟠 Mittel | Mittel | **KW 2** | Screaming Frog |
-| 8 | **Scarcity-Elemente dynamisch machen** oder entfernen | CRO | 🟠 Mittel | Niedrig | **KW 1** | Live-Analyse |
-| 9 | **robots.txt prüfen** — AI-Bots (GPTBot, PerplexityBot, ClaudeBot) zulassen | AI-SEO | 🟠 Mittel | Niedrig | **KW 1** | Best Practice |
-| 10 | **Testimonials mit Vorher/Nachher-Zahlen** anreichern | CRO / Copy | 🟠 Mittel | Niedrig | **KW 2–3** | Live-Analyse |
-| 11 | **Generische Claims ersetzen** durch spezifische Case-Study-Zahlen | Copy | 🟠 Mittel | Niedrig | **KW 2** | Live-Analyse |
-| 12 | **FAQ-Sektion** auf /mitarbeitergewinnung/ und /neukundengewinnung/ | AI-SEO / CRO | 🟡 Mittel | Mittel | **KW 3–4** | Best Practice |
-| 13 | **Google Business Profile** optimieren & Bewertungen aufbauen | AI-SEO / Local | 🟠 Mittel | Niedrig | **KW 2** | Best Practice |
-| 14 | **Hero-Bifurkation** Startseite (Recruiting vs. Neukunden klar trennen) | CRO / Copy | 🟠 Mittel | Mittel | **KW 3** | Live-Analyse |
-| 15 | **Branchenspezifische Landingpages** (z.B. Recruiting Handwerk, Pflege, Industrie) | SEO | 🔴 Hoch | Hoch | **Q2** | Best Practice |
-| 16 | **Content-Hub / Blog** für organischen Traffic | SEO | 🔴 Hoch | Hoch | **Q2** | Best Practice |
-| 17 | **Team-/Über-uns-Seite** für E-E-A-T-Signale | SEO / Trust | 🟡 Mittel | Mittel | **Q2** | Best Practice |
+| 1 | **Footer-Elemente aus H2 entfernen** (Newsletter, Follow us, Navi auf jeder Seite als H2 getaggt — siteweiter Hierarchiefehler) | SEO / Technik | 🔴 Kritisch | Niedrig | **Sofort** | Heading-Audit |
+| 2 | **Fuest Case Study: 13 H1-Tags auf H2/H3 downgraden** — schwerster Einzelfehler im Crawl | SEO On-Page | 🔴 Kritisch | Niedrig | **Sofort** | Heading-Audit |
+| 3 | **Alle Case Studies: Doppel-H1 beheben** (WITTE, Apleona: je 2×H1 „Case-Study" + Firmenname) | SEO On-Page | 🔴 Hoch | Niedrig | **Sofort** | Heading-Audit |
+| 4 | **H1-Tags keyword-optimieren** auf allen Hauptseiten (/, /kontakt/, /unsere-arbeiten/) | SEO On-Page | 🔴 Hoch | Niedrig | **Sofort** | Heading-Audit |
+| 5 | **Title-Tags kürzen** (Datenschutz 82→37, Impressum 80→42, Gebr. Pfeiffer 65→57, Fuest 64→57) | SEO On-Page | 🟠 Mittel | Niedrig | **Sofort** | Screaming Frog |
+| 6 | **CTA vereinheitlichen** sitewide: Outcome-basiert, klarer Next Step | CRO | 🔴 Hoch | Niedrig | **Sofort** | Live-Analyse |
+| 7 | **/neukundengewinnung/: H2-Überladung bereinigen** (16 H2s → max. 5, H2-Splitting beheben) | SEO On-Page | 🔴 Hoch | Niedrig | **KW 1** | Heading-Audit |
+| 8 | **Optimierte Meta Titles** einpflegen (alle 8 Seiten laut Tabelle C.10) | SEO On-Page | 🟠 Mittel–Hoch | Mittel | **KW 1** | Heading-Audit |
+| 9 | **Lesbarkeit Case Studies verbessern** (Flesch von 13–32 auf ≥50 heben) | Copy / CRO | 🟠 Mittel–Hoch | Mittel | **KW 1–2** | Screaming Frog |
+| 10 | **Schema.org implementieren** (Organization, Review, FAQPage, HowTo) | SEO / AI-SEO | 🟠 Mittel–Hoch | Mittel | **KW 1–2** | Best Practice |
+| 11 | **Kontaktseite erweitern** (106 → 300+ Wörter, Prozess nach Anfrage erklären) | CRO / SEO | 🟠 Mittel | Niedrig | **KW 1** | Screaming Frog |
+| 12 | **/unsere-arbeiten/ Content ausbauen** (165 → 500+ Wörter, H3s mit Ergebniszahlen) | SEO / CRO | 🟠 Mittel | Mittel | **KW 2** | Screaming Frog |
+| 13 | **Scarcity-Elemente dynamisch machen** oder entfernen | CRO | 🟠 Mittel | Niedrig | **KW 1** | Live-Analyse |
+| 14 | **robots.txt prüfen** — AI-Bots (GPTBot, PerplexityBot, ClaudeBot) zulassen | AI-SEO | 🟠 Mittel | Niedrig | **KW 1** | Best Practice |
+| 15 | **Testimonials mit Vorher/Nachher-Zahlen** anreichern | CRO / Copy | 🟠 Mittel | Niedrig | **KW 2–3** | Live-Analyse |
+| 16 | **FAQ-Sektion** auf /mitarbeitergewinnung/ und /neukundengewinnung/ | AI-SEO / CRO | 🟡 Mittel | Mittel | **KW 3–4** | Best Practice |
+| 17 | **Google Business Profile** optimieren & Bewertungen aufbauen | AI-SEO / Local | 🟠 Mittel | Niedrig | **KW 2** | Best Practice |
+| 18 | **Hero-Bifurkation** Startseite (Recruiting vs. Neukunden klar trennen) | CRO / Copy | 🟠 Mittel | Mittel | **KW 3** | Live-Analyse |
+| 19 | **Branchenspezifische Landingpages** (z.B. Recruiting Handwerk, Pflege, Industrie) | SEO | 🔴 Hoch | Hoch | **Q2** | Best Practice |
+| 20 | **Content-Hub / Blog** für organischen Traffic | SEO | 🔴 Hoch | Hoch | **Q2** | Best Practice |
+| 21 | **Team-/Über-uns-Seite** für E-E-A-T-Signale | SEO / Trust | 🟡 Mittel | Mittel | **Q2** | Best Practice |
 
 **Legende:** 🔴 Hoch · 🟠 Mittel–Hoch · 🟡 Mittel
 
@@ -447,6 +451,370 @@ Ebene 5 — CTA:    Kostenfreies Erstgespräch (20 Min.) → konkretes Strategie
 
 ---
 
+## Anhang C: Tiefenanalyse Meta Title · Meta Description · H1–H4
+
+> **Methode:** Live-Extraktion aller Heading-Tags von 10 Seiten (Startseite, 2 Leistungsseiten, Kontakt, Portfolio-Übersicht, 3 Case Studies). Bewertung je nach SEO-Relevanz (Keyword-Dichte, Hierarchie-Logik) und Conversion-Stärke (Klarheit, Nutzen, Handlungsimpuls).
+
+---
+
+### C.1 Bewertungssystem
+
+| Kriterium | A — Sehr gut | B — Gut | C — Ausbaufähig | D — Kritisch |
+|-----------|-------------|---------|-----------------|--------------|
+| **SEO** | Primärkeyword im Tag, korrekte Länge, Hierarchie eingehalten | Keyword vorhanden, kleinere Abweichungen | Keyword schwach / fehlt | Kein Keyword, falsche Länge, Hierarchiebruch |
+| **Conversion** | Spezifischer Nutzen, Zahlen, Dringlichkeit | Nutzen vorhanden, kein Trigger | Generisch, austauschbar | Keine Aussage / confusing |
+
+---
+
+### C.2 Startseite (`/`)
+
+**Meta Title**
+```
+Ist:  "Online Marketing Agentur Klober Media in Bingen am Rhein"  [56 Zeichen]
+```
+| | SEO | Conversion |
+|--|-----|------------|
+| Bewertung | **B** | **C** |
+| Begründung | Primärkeyword „Online Marketing Agentur" vorne ✅, Ortsnennung ✅, Länge ok | Kein Nutzenversprechen, keine Zahl, kein Differenzierungsmerkmal |
+| Optimierung | „Online Marketing Agentur für Recruiting & Neukundengewinnung – Klober Media" [72 → kürzen auf 65: „Recruiting & Neukundengewinnung – Online Marketing Agentur Klober Media"] | |
+
+**Meta Description**
+```
+Ist:  [138 Zeichen, Inhalt aus SF – exakter Text nicht extrahierbar]
+```
+| | SEO | Conversion |
+|--|-----|------------|
+| Bewertung | **B** (Länge ok) | **?** (Text unbekannt) |
+| Empfehlung | „Mehr Mitarbeiter oder mehr Kunden? Klober Media liefert messbare Ergebnisse: 6.350+ Bewerbungen, 30+ Partner, 4,6–144x ROAS. Jetzt Erstgespräch anfragen." [148 Zeichen] | |
+
+**Heading-Hierarchie Startseite — vollständige Bestandsaufnahme**
+
+| Tag | Ist-Text | SEO | Conv. | Problem |
+|-----|----------|-----|-------|---------|
+| H1 | „Geiles Online Marketing, das funktioniert!" | **D** | **B** | Kein Keyword, nicht suchbar |
+| H2 | „Starke Partner. Starke Ergebnisse." | **D** | **C** | Kein Keyword, zu generisch |
+| H2 | „Ergebnisse statt Ausreden" | **D** | **B** | Positionierung ja, kein Keyword |
+| H2 | „Klarer Plan. Klare Umsetzung. Klare Ergebnisse." | **D** | **C** | Repetitiv, kein Keyword |
+| H2 | „Aus Projekten werden Partnerschaften." | **D** | **C** | Brand-Sprache ohne Keyword |
+| H2 | „Kunden. Vertrauen. Ergebnisse." | **D** | **C** | Zu fragmentiert |
+| H2 | „Bereit für geiles Online Marketing?" | **D** | **B** | Kein Keyword, aber Call-to-Action-Charakter |
+| **H2** | **„Newsletter"** | **D** | **—** | ❌ KRITISCH: Footer-Element als H2 getaggt |
+| **H2** | **„Follow us"** | **D** | **—** | ❌ KRITISCH: Footer-Element als H2 getaggt |
+| **H2** | **„Navi"** | **D** | **—** | ❌ KRITISCH: Navigation als H2 getaggt |
+| H3 | „135% mehr qualifizierte Bewerbungen" | **B** | **A** | ✅ Konkrete Zahl, starkes Trust-Signal |
+| H3 | „6350+ Bewerbungen erfolgreich generiert" | **B** | **A** | ✅ Konkrete Zahl |
+| H3 | „30+ Unternehmen vertrauen uns" | **C** | **B** | Social Proof, aber generisch |
+| H3 | „7+ Jahre Erfahrung im Online Marketing" | **C** | **B** | Erfahrungs-Signal |
+| H3 | „Zielsetzung", „Strategie", „Umsetzung", „Messung" | **C** | **C** | Prozess-Labels, zu kurz |
+| H4 | „Ob Recruiting, Markenaufbau oder Sichtbarkeit" | **D** | **C** | Zu vage, kein Keyword |
+
+**Gesamtbefund Startseite:**
+- **3 Footer-/Navigations-Elemente fälschlicherweise als H2** — das zerstört die Heading-Hierarchie aus Google-Perspektive
+- H1 ohne jedes Keyword — Google kann Seite nicht thematisch einordnen
+- Alle H2s sind Brand-Sprache statt SEO-Signale
+- Stärkste Tags sind die H3-Zahlen — diese sollten ins H2-Level hochgezogen werden
+
+**Empfohlene Korrektur-Hierarchie Startseite:**
+```
+H1: "Online Marketing Agentur für Recruiting und Neukundengewinnung"
+H2: "135% mehr qualifizierte Bewerbungen – messbar und planbar"
+H2: "Mitarbeitergewinnung via Social Recruiting"
+H2: "Neukundengewinnung via Google & Meta Ads"
+H2: "So arbeiten wir: Ziel → Strategie → Umsetzung → Messung"
+H2: "30+ Unternehmen. 6.350+ Bewerbungen. 7+ Jahre."
+H3: (Prozess-Details, Testimonials, einzelne Leistungen)
+```
+
+---
+
+### C.3 `/mitarbeitergewinnung/`
+
+**Meta Title**
+```
+Ist:  "Mitarbeitergewinnung durch Social Recruiting und Branding"  [57 Zeichen]
+```
+| | SEO | Conversion |
+|--|-----|------------|
+| Bewertung | **B** | **C** |
+| Begründung | Primärkeyword ✅, Methode (Social Recruiting) ✅, Länge ok | Kein Nutzenversprechen, kein Ergebnis, keine Dringlichkeit |
+| Optimierung | „Mitarbeitergewinnung mit Social Recruiting – 6.350+ Bewerbungen für KMU" [70 → auf 65 kürzen] | |
+
+**Heading-Hierarchie `/mitarbeitergewinnung/`**
+
+| Tag | Ist-Text | SEO | Conv. | Problem |
+|-----|----------|-----|-------|---------|
+| H1 | „Mitarbeitergewinnung" | **C** | **D** | Keyword vorhanden, aber viel zu kurz — kein USP, keine Zahl, kein Differenzmerkmal |
+| H2 | „Warum 95% aller Unternehmen beim Recruiting scheitern" | **C** | **A** | ✅ Stärkster Conversion-Hook der ganzen Seite — kein Keyword aber starker Pattern-Interrupt |
+| H3 | „✅ Wie Apleona Wolfferts in nur 8 Monaten 92 neue Mitarbeiter einstellte" | **B** | **A** | ✅ Konkret, Zeitangabe, Zahl — perfektes Trust-Heading |
+| H3 | „Messbares Recruiting" | **C** | **C** | Zu kurz, generisch |
+| H3 | „Schnelle Umsetzung" | **D** | **D** | Jede Agentur behauptet das |
+| H3 | „Zuverlässige Betreuung" | **D** | **D** | Jede Agentur behauptet das |
+| H3 | „Ehrliche Kommunikation auf Augenhöhe" | **D** | **C** | Differenzierung ohne Beleg |
+
+**Gesamtbefund `/mitarbeitergewinnung/`:**
+- H1 „Mitarbeitergewinnung" — ein einzelnes Wort als H1 ist verschenktes Potenzial
+- H2 ist der stärkste Conversion-Text — müsste keyword-optimiert sein
+- H3-Differenzierungsversprechen sind alle austauschbar — keine einzige Zahl
+
+**Empfohlene Korrektur-Hierarchie:**
+```
+H1: "Mitarbeitergewinnung mit Social Recruiting – planbar, messbar, effizient"
+H2: "Warum 95% aller Unternehmen beim Recruiting scheitern"  [behalten]
+H2: "Wie wir in 8 Monaten 92 Mitarbeiter für Apleona Wolfferts eingestellt haben"
+H2: "Unser 4-Phasen-Recruiting-System"
+H3: "Phase 1: Anforderungsanalyse & Zielgruppendefinition"
+H3: "Phase 2: Kampagnenentwicklung & Anzeigengestaltung"
+H3: "Ergebnis: 83% Qualifizierungsquote, Ø 24h Erstgespräch"
+```
+
+---
+
+### C.4 `/neukundengewinnung/`
+
+**Meta Title**
+```
+Ist:  "Digitale Neukundengewinnung: Mit Social Media zum Erfolg"  [56 Zeichen]
+```
+| | SEO | Conversion |
+|--|-----|------------|
+| Bewertung | **B** | **C** |
+| Begründung | Keyword ✅, „Digital" ✅, Länge ok | „Zum Erfolg" ist zu vage — welcher Erfolg? Welche Zahl? |
+| Optimierung | „Neukundengewinnung mit Social Media & Google Ads – bis 144x ROAS" [64 Zeichen] | |
+
+**Heading-Hierarchie `/neukundengewinnung/` — 16 H2s (kritische Überladung)**
+
+| Tag | Ist-Text | SEO | Conv. | Problem |
+|-----|----------|-----|-------|---------|
+| H1 | „Neukundengewinnung mit Social Media" | **B** | **C** | Keyword ✅ aber kein Nutzenversprechen |
+| H2 | „Endlich wieder Zeit das Unternehmen strategisch weiterzuentwickeln" | **D** | **B** | Kein Keyword, zu lang als Heading |
+| H2 | „schnell und effektiv!" | **D** | **D** | ❌ Nur 3 Wörter, kein Kontext, nicht als H2 geeignet |
+| H2 | „Schluss mit schlaflosen Nächten wegen schwankender Umsätze" | **D** | **A** | ✅ Starker Pain-Trigger, kein Keyword |
+| H2 | „Red Flags im Marketing" | **C** | **A** | Pattern-Interrupt, kein Keyword |
+| H2 | „3 Quick Tipps, wie Du teure Fehlentscheidungen vermeidest" | **C** | **A** | Nutzenversprechen, kein Keyword |
+| H2 | „BEI KLOBER MEDIA MACHEN WIR ES ANDERS:" | **D** | **B** | Differenzierung ja, GROSSSCHREIBUNG im H2 ❌ |
+| H2 | „Qualifizierte Kundenanfragen" | **C** | **C** | Zu kurz |
+| H2 | „So klappt's mit den neuen Kunden!" | **D** | **C** | Kein Keyword, umgangssprachlich |
+| H2 | „Erfolg braucht Partnerschaft." | **D** | **C** | Brand-Sprache |
+| H2 | „Unsere Leistung" | **C** | **D** | Keyword-Potenzial, aber zu generisch |
+| H2 | „Das Ergebnis? Während die Konkurrenz noch rätselt," | **D** | **B** | Halber Satz als H2 ❌ |
+| **H2** | **„warum funktioniert's?"** | **D** | **D** | ❌ Fortsetzung des vorherigen H2 — Heading-Splitting |
+| **H2** | **„Weil wir's smart angehen!"** | **D** | **D** | ❌ Antwort als H2 — Heading-Splitting |
+| H2 | „unsere Arbeitsweise" | **C** | **D** | Zu generisch |
+| H2 | „Aus Projekten werden Partnerschaften." | **D** | **C** | Brand-Sprache |
+| H2 | „Effizient, partnerschaftlich und immer auf Augenhöhe" | **D** | **C** | 3 Adjektive ohne Beleg |
+| H3 | „#1", „#2", „#3" | **D** | **D** | ❌ Nummern ohne Kontext sind SEO-wertlos |
+| H3 | „Google Ads", „Meta Ads", „Analytics" | **B** | **C** | Keywords ✅, aber zu kurz als Headings |
+| H3 | „Positionierung", „Digitalisierung", „Targetierung", „Automatisierung" | **C** | **D** | Keyword-Potenzial ungenutzt |
+
+**Gesamtbefund `/neukundengewinnung/`:**
+- **16 H2-Tags** auf einer Seite zerstören die semantische Hierarchie
+- Drei H2s bilden zusammen einen Satz (Splitting) — technisch fehlerhaft
+- `#1`, `#2`, `#3` als H3 sind für Google und KI-Crawler vollständig wertlos
+- Stärkste Conversion-Headlines (Schlaflose Nächte, Red Flags) haben keine Keywords
+
+**Empfohlene Korrektur-Hierarchie:**
+```
+H1: "Neukundengewinnung mit Social Media & Google Ads – 4,6x bis 144x ROAS"
+H2: "Schluss mit schwankenden Umsätzen – so gewinnst du planbar neue Kunden"
+H2: "3 Red Flags: Woran du eine schlechte Marketing-Agentur erkennst"
+H2: "Unsere Leistungen für planbare Neukundengewinnung"
+  H3: "Google Ads – Suchkampagnen mit messbarem ROI"
+  H3: "Meta Ads – Facebook & Instagram Leadgenerierung"
+  H3: "Marketing Automation – Leads zu Kunden konvertieren"
+H2: "Wie wir arbeiten: Von der Analyse zum ersten Kunden"
+H2: "Referenzen: 4,63 ROAS für AIKON Skincare – 144 ROAS für DIV"
+```
+
+---
+
+### C.5 `/kontakt/`
+
+**Meta Title**
+```
+Ist:  "Klober Media Kontakt – individuell, verbindlich, direkt"  [55 Zeichen]
+```
+| | SEO | Conversion |
+|--|-----|------------|
+| Bewertung | **C** | **B** |
+| Begründung | Kein Keyword, „Kontakt" allein rankt nicht | 3 Adjektive sind Differenzierung, aber kein Nutzen |
+| Optimierung | „Kontakt – Klober Media Online Marketing Agentur Bingen am Rhein" [61 Zeichen] | |
+
+**Heading-Hierarchie `/kontakt/`**
+
+| Tag | Ist-Text | SEO | Conv. | Problem |
+|-----|----------|-----|-------|---------|
+| H1 | „Lass uns gemeinsam über dein Projekt sprechen." | **D** | **C** | Kein Keyword, kein Nutzenversprechen, kein konkretes Angebot |
+| H2 | „Du bist auf der Suche nach einem Partner, der nicht nur redet, sondern liefert? Wir sind bereit. Und du?" | **D** | **B** | Viel zu lang als H2, kein Keyword — passt als Fließtext |
+| H2 | „Erfolgreiche Unternehmen die uns bereits vertrauen:" | **C** | **B** | Social Proof ✅, kein Keyword |
+| H2 | „Let's Talk" | **D** | **C** | Englisch, zu kurz, kein Keyword |
+| **H2** | **„Newsletter"** | **D** | **—** | ❌ Footer-Element als H2 |
+| **H2** | **„Follow us"** | **D** | **—** | ❌ Footer-Element als H2 |
+| **H2** | **„Navi"** | **D** | **—** | ❌ Footer-Element als H2 |
+| H3 | „Regelmäßig frische Impulse. In deinem Postfach." | **D** | **C** | Newsletter-Teaser |
+| H4 | „Kein Spam. Versprochen." | **D** | **B** | Vertrauenssignal ok, aber fehl am Platz |
+
+**Gesamtbefund `/kontakt/`:**
+- Footer-Tags (Newsletter, Follow us, Navi) erscheinen wieder als H2 — **siteweites Problem im Theme**
+- H1 enthält kein einziges Keyword
+
+**Empfehlung:**
+```
+H1: "Kontakt – Jetzt kostenfreies Erstgespräch anfragen"
+H2: "In 3 Schritten zu deiner Marketingstrategie"
+H2: "30+ Unternehmen vertrauen uns bereits – du auch?"
+```
+
+---
+
+### C.6 `/unsere-arbeiten/`
+
+**Meta Title**
+```
+Ist:  "Unsere Arbeiten – kreative Projekte, echte Wirkung"  [50 Zeichen]
+```
+| | SEO | Conversion |
+|--|-----|------------|
+| Bewertung | **C** | **C** |
+| Begründung | Kein Keyword (weder „Social Recruiting" noch „Case Studies") | „Kreative Projekte" ist austauschbar |
+| Optimierung | „Social Recruiting Referenzen – Unsere Arbeiten & Case Studies" [61 Zeichen] | |
+
+**Heading-Hierarchie `/unsere-arbeiten/`**
+
+| Tag | Ist-Text | SEO | Conv. | Problem |
+|-----|----------|-----|-------|---------|
+| **H1** | **„Unsere Arbeiten"** | **D** | **D** | ❌ Kein Keyword, kein USP, 2 Wörter ohne Mehrwert |
+| H2 | „Jede Marke hat Potenzial. Wir helfen, es sichtbar zu machen." | **D** | **C** | Brand-Sprache, kein Keyword |
+| H3 | Fuest, WITTE, Apleona... (Firmennamen) | **C** | **B** | Markennamen sind ok, aber kein Nutzen kommuniziert |
+
+**Empfehlung:**
+```
+H1: "Social Recruiting Referenzen – 7 Fallstudien mit messbaren Ergebnissen"
+H2: "Recruiting-Kampagnen: Ergebnisse unserer Kunden"
+H3: "Fuest Familienstiftung – 350+ Einstellungen"  [statt nur Firmenname]
+H3: "WITTE Automotive – 78% Qualifizierungsquote"
+```
+
+---
+
+### C.7 Case-Study-Seiten (WITTE, Apleona, Fuest)
+
+**Siteweites Problem: Doppelter H1**
+
+Alle drei analysierten Case-Study-Seiten haben **zwei H1-Tags** — das ist ein direktes SEO-Problem:
+
+```
+WITTE:   H1: "Case-Study"  +  H1: "WITTE Automotive"
+Apleona: H1: "Case-Study"  +  H1: "Apleona Wolfferts GmbH"
+Fuest:   H1: "Case-Study"  +  H1: "Fuest Familienstiftung"  (+ weitere H1-Fehler)
+```
+
+**WITTE Automotive — Heading-Bewertung**
+
+| Tag | Ist-Text | SEO | Conv. |
+|-----|----------|-----|-------|
+| H1 | „Case-Study" | **D** | **D** | Generisch, kein Keyword |
+| H1 | „WITTE Automotive" | **D** | **C** | Firmenname ohne Kontext ❌ zweiter H1 |
+| H2 | „Über das Unternehmen" | **C** | **C** | Standard |
+| H2 | „Die Herausforderung" | **C** | **B** | Narrative Struktur ✅ |
+| H2 | „Die Umsetzung" | **C** | **B** | Prozess-Transparenz ✅ |
+| H2 | „Das Ergebnis" | **C** | **A** | ✅ High-Interest-Section |
+| H2 | „Learnings" | **C** | **B** | Differenzierung durch Transparenz |
+| H2 | „Du suchst das passende Personal?" | **D** | **B** | CTA-H2, kein Keyword |
+| H3 | „Auslastung", „Konkurrenzdruck", „Arbeitgebermarke" | **C** | **B** | Problem-Kategorien ok |
+| H4 | „Der steigende Projektbedarf brachte das bestehende Team an seine Grenzen." | **D** | **B** | Zu lang für H4, besser als Fließtext |
+
+**Fuest Familienstiftung — Heading-Bewertung (besonders kritisch)**
+
+Die Fuest-Seite hat **die meisten H1-Fehler** aller analysierten Seiten:
+
+```
+H1: "Case-Study"
+H1: "Fuest Familienstiftung"
+H1: "Über das Unternehmen"       ← sollte H2 sein
+H1: "Fuest Familienstiftung"     ← Wiederholung
+H1: "Die Herausforderung"        ← sollte H2 sein
+H1: "Gesucht wurden u. a.:"      ← sollte H3 sein
+H1: "Recruiting mit Weitblick"   ← sollte H2 sein
+H1: "Die Umsetzung:"             ← sollte H2 sein
+H1: "Mix aus Strategie, Content und Technologie"  ← sollte H2 sein
+H1: "Das Ergebnis"               ← sollte H2 sein
+H1: "Sichtbarkeit, Bewerbungen, Entlastung"  ← sollte H3 sein
+H1: "Was wir gelernt haben"      ← sollte H2 sein
+H1: "Und jetzt?"                 ← sollte H2 sein
+```
+
+**→ Die Fuest-Seite hat 13 H1-Tags.** Das ist der schwerste Heading-Fehler im gesamten Crawl.
+
+---
+
+### C.8 Gesamtauswertung: SEO-Relevanz & Conversion-Stärke
+
+**Aggregierte Bewertung aller Seiten (Skala A–D)**
+
+| Seite | Meta Title SEO | Meta Title Conv. | H1 SEO | H1 Conv. | H-Hierarchie | Gesamtnote |
+|-------|----------------|-----------------|--------|----------|--------------|------------|
+| `/` | B | C | D | B | D (Footer als H2) | **D+** |
+| `/mitarbeitergewinnung/` | B | C | C | D | C | **C** |
+| `/neukundengewinnung/` | B | C | B | C | D (16 H2s, Splitting) | **C–** |
+| `/kontakt/` | C | B | D | C | D (Footer als H2) | **D+** |
+| `/unsere-arbeiten/` | C | C | D | D | C | **D+** |
+| Case Studies (WITTE, Apleona) | B | C | D (2×H1) | D | B | **C–** |
+| Fuest Case Study | C | C | D (13×H1!) | D | D | **D** |
+
+---
+
+### C.9 Die 5 kritischsten strukturellen Fehler (Handlungsbedarf sofort)
+
+**Fehler 1 — Footer/Navigation als H2 getaggt (siteweites Problem)**
+`Newsletter`, `Follow us`, `Navi` erscheinen auf jeder Seite als H2. Das vergiftet die Heading-Hierarchie seitenübergreifend.
+```
+Fix: In CMS/Theme die Footer-Elemente auf <p> oder <span> umstellen
+```
+
+**Fehler 2 — Fuest Case Study: 13 H1-Tags**
+Die komplette Seitenstruktur der Fuest-Seite ist als H1 ausgezeichnet. Google sieht keine Hierarchie.
+```
+Fix: 1 H1 behalten → alle anderen auf H2/H3 downgraden
+```
+
+**Fehler 3 — Alle anderen Case Studies: 2 H1-Tags**
+„Case-Study" + Firmenname beide als H1.
+```
+Fix: "Case-Study" → <p class="label"> oder <span>, nur Firmenname als H1
+     Besser: H1 = "[Firmenname]: [Kernergebnis]"
+```
+
+**Fehler 4 — `/neukundengewinnung/`: H2-Splitting (3 H2s bilden einen Satz)**
+```
+Ist:  H2: "Das Ergebnis? Während die Konkurrenz noch rätselt,"
+      H2: "warum funktioniert's?"
+      H2: "Weil wir's smart angehen!"
+
+Fix:  Diese 3 Tags zu einem einzigen H2 zusammenführen oder als Fließtext
+```
+
+**Fehler 5 — H1s ohne Keyword auf Hauptseiten**
+`/` → „Geiles Online Marketing, das funktioniert!" — kein indexierbares Keyword
+`/kontakt/` → „Lass uns gemeinsam über dein Projekt sprechen." — kein Keyword
+`/unsere-arbeiten/` → „Unsere Arbeiten" — kein Keyword
+
+---
+
+### C.10 Optimierte Meta Titles & H1s — Zusammenfassung (copy-ready)
+
+| Seite | Aktueller Title | Optimierter Title | Aktueller H1 | Optimierter H1 |
+|-------|-----------------|------------------|--------------|----------------|
+| `/` | „Online Marketing Agentur Klober Media in Bingen am Rhein" | „Online Marketing Agentur für Recruiting & Neukundengewinnung – Klober Media" | „Geiles Online Marketing, das funktioniert!" | „Online Marketing Agentur für Recruiting und Neukundengewinnung" *(H1 technisch, Display-Headline bleibt)* |
+| `/mitarbeitergewinnung/` | „Mitarbeitergewinnung durch Social Recruiting und Branding" | „Mitarbeitergewinnung mit Social Recruiting – 6.350+ Bewerbungen für KMU" | „Mitarbeitergewinnung" | „Mitarbeitergewinnung mit Social Recruiting – planbar, messbar, effizient" |
+| `/neukundengewinnung/` | „Digitale Neukundengewinnung: Mit Social Media zum Erfolg" | „Neukundengewinnung mit Social Media & Google Ads – bis 144x ROAS" | „Neukundengewinnung mit Social Media" | „Neukundengewinnung mit Social Media & Google Ads – 4,6x bis 144x ROAS" |
+| `/kontakt/` | „Klober Media Kontakt – individuell, verbindlich, direkt" | „Kontakt – Klober Media Online Marketing Agentur Bingen am Rhein" | „Lass uns gemeinsam über dein Projekt sprechen." | „Kontakt – Jetzt kostenfreies Erstgespräch anfragen" |
+| `/unsere-arbeiten/` | „Unsere Arbeiten – kreative Projekte, echte Wirkung" | „Social Recruiting Referenzen – Fallstudien & Case Studies" | „Unsere Arbeiten" | „Social Recruiting Referenzen – 7 Fallstudien mit messbaren Ergebnissen" |
+| `/unsere-arbeiten/witte-automotive-gmbh/` | „Kundenreferenz: Social Recruiting für WITTE Automotive" | „WITTE Automotive: Social Recruiting – 78% Qualifizierungsquote" | „Case-Study" + „WITTE Automotive" (2×H1) | „Social Recruiting WITTE Automotive – 78% Qualifizierungsquote, 6% CVR" |
+| `/unsere-arbeiten/apleona-wolfferts/` | „Recruiting für Apleona Wolfferts – konkret & effizient" | „Apleona Wolfferts: 83% Qualifizierungsquote via Social Recruiting" | „Case-Study" + „Apleona Wolfferts GmbH" (2×H1) | „Social Recruiting Apleona Wolfferts – 92 Mitarbeiter in 8 Monaten" |
+| `/unsere-arbeiten/fuest-social-recruiting/` | „Fuest Familienstiftung: Social Recruiting mit 350+ Einstellungen" | „Fuest Familienstiftung: 350+ Einstellungen via Social Recruiting" | 13×H1 (komplette Seite) | „Social Recruiting Fuest Familienstiftung – 350+ Einstellungen" |
+
+---
+
 *Report erstellt mit: seo-audit · page-cro · site-architecture · copywriting · ai-seo Skills*
 *Skills-Quelle: github.com/KloberMedia/marketingskills/tree/main/skills*
-*Datengrundlage: Live-Crawl + Screaming Frog Export (265 URLs, Stand März 2026)*
+*Datengrundlage: Live-Crawl + Screaming Frog Export (265 URLs) + Heading-Tiefenanalyse (10 Seiten), Stand März 2026*
